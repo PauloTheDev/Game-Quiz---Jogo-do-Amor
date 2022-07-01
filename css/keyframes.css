@@ -1,0 +1,41 @@
+@keyframes downTitle {
+    from{
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+
+    to{
+        transform: translateY(0);
+    }
+}
+
+@keyframes comeFromLeft {
+    from{
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+
+    to{
+        
+    }
+}
+
+@keyframes wrongAnswer {
+    0%{
+        background-color: red;
+    }
+
+    100%{
+
+    }
+}
+
+@keyframes correctAnswer {
+    0%{
+        background-color: green;
+    }
+
+    100%{
+
+    }
+}
