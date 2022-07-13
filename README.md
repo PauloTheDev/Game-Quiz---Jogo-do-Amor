@@ -10,4 +10,7 @@
     <li>CSS3</li>
 </ul>
 <hr>
+<img src='https://user-images.githubusercontent.com/81721360/178788280-817096a6-1b3a-444f-bd22-4f455be3777f.png'/>
+<img src='https://user-images.githubusercontent.com/81721360/178788393-5274d729-7e09-4511-baa9-9942b290465f.png'/>
+
 Code by: @PauloTheDev
